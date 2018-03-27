@@ -1,0 +1,7 @@
+﻿VirtualCompress/obj
+VirtualCompress/packages
+VirtualCompress/bin
+.vs
+CompressTest/obj
+CompressTest/bin
+packages

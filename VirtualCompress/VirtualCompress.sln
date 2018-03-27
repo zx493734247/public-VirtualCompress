@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCompress", "VirtualCompress\VirtualCompress.csproj", "{AFF98413-0777-4772-B322-8395BDE75C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressTest", "CompressTest\CompressTest.csproj", "{7823CED6-6DE9-486C-AABF-0C344A4EBD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF98413-0777-4772-B322-8395BDE75C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF98413-0777-4772-B322-8395BDE75C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF98413-0777-4772-B322-8395BDE75C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF98413-0777-4772-B322-8395BDE75C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7823CED6-6DE9-486C-AABF-0C344A4EBD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7823CED6-6DE9-486C-AABF-0C344A4EBD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7823CED6-6DE9-486C-AABF-0C344A4EBD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7823CED6-6DE9-486C-AABF-0C344A4EBD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://zibozx.jios.org:5080/tfs/zxteam
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VirtualCompress\\VirtualCompress.csproj
+		SccProjectName1 = VirtualCompress
+		SccLocalPath1 = VirtualCompress
+		SccProjectUniqueName2 = CompressTest\\CompressTest.csproj
+		SccProjectName2 = CompressTest
+		SccLocalPath2 = CompressTest
+	EndGlobalSection
+EndGlobal
